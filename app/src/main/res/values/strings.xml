@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">TV APPS</string>
+
+    <!--<Admob App ID>-->
+    <string name="admob_app_id">ca-app-pub-9958239501201827~4305769109</string>
+
+    <string name="home">Home</string>
+    <string name="category">Kategory</string>
+    <string name="top_10_views">10 Tampilan Teratas</string>
+    <string name="favourite">Favourit</string>
+    <string name="settings">Setting</string>
+
+    <string name="company">Perusahaan</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Kontak</string>
+
+    <string name="made_with_in_srilanka">Made With ❤ in Medan</string>
+    <string name="app_developer_by_nemosofts">App developer By : Reysan</string>
+
+    <string name="no_internet_connection">Tidak ada koneksi internet</string>
+    <string name="internet_connection_is_not_available">Koneksi Internet tidak tersedia.</string>
+    <string name="retey">Coba Lagi</string>
+
+    <string name="add_to_fav">Ditambahkan ke Favorit</string>
+    <string name="remove_from_fav">Dihapus dari Favorit</string>
+    <string name="navigation_drawer_open">Buka</string>
+    <string name="navigation_drawer_close">Tutup</string>
+    <string name="exit">Keluar</string>
+    <string name="err_internet_not_conn">err internet</string>
+    <string name="ok">Ok</string>
+
+    <string name="welcomeback">Selamat Datang</string>
+    <string name="signin_to_continue">Masuk untuk melanjutkan</string>
+    <string name="remember_me">Ingat Saya</string>
+    <string name="registering">Daftar</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="signup">SignUp</string>
+    <string name="cannot_empty">Tidak boleh kosong</string>
+    <string name="pass_end_space">Tolong jangan tambahkan spasi di akhir</string>
+    <string name="name">Nama</string>
+    <string name="cpassword">Konfirmasi Password</string>
+    <string name="enter_phone">Masukan No Handphone</string>
+    <string name="register">Daftar</string>
+    <string name="phone">Phone</string>
+    <string name="enter_name">Silakan Masukkan Nama</string>
+    <string name="enter_email">Silakan Masukkan Email</string>
+    <string name="enter_password">Silakan Masukkan Password</string>
+    <string name="enter_cpassword">Silakan Konfirmasi Password</string>
+    <string name="pass_nomatch">Konfirmasi Kata Sandi tidak cocok</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Logout Sukses</string>
+    <string name="image">Gambar</string>
+    <string name="error_password_sort">Kata sandi ini terlalu pendek</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="err_server">err server</string>
+    <string name="error_nemosofts_key">Error Nemosofts key</string>
+    <string name="create_nemosofts_key">Create a new nemosofts key</string>
+    <string name="err_no_categories_found">Tidak Ada Kategori Ditemukan</string>
+    <string name="error_unauth_access">Unauthorized Access</string>
+    <string name="server_error">Server Error</string>
+    <string name="error_connect_net_tryagain">Please connect to internet and try again</string>
+    <string name="try_again">Try Again</string>
+    <string name="added_to_fav">Ditambahkan ke favorit</string>
+    <string name="removed_from_fav">Dihapus dari favorit</string>
+    <string name="dialog_text_no_ads_title">Matikan iklan</string>
+    <string name="dialog_text_no_ads_description">Gunakan Aplikasi lebih gratis tanpa iklan</string>
+    <string name="description_subsribte">Dengan paket kami. Anda dapat menikmati pengalaman bebas iklan . dan fokus pada yang Siaran kesukaan anda</string>
+
+
+    <string name="dialog_text_unlimited">Unlimited Channels</string>
+    <string name="dialog_text_unlimited_hd">Unlimited HD Live Channels Free</string>
+    <string name="all_tv">Semua Saluran</string>
+    <string name="latest">Terbaru</string>
+    <string name="most">Paling Banyak Dilihat</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="recent">Dilihat Sebelumnya</string>
+
+    <string name="enter_name_channel">Silakan Masukkan Nama Saluran</string>
+    <string name="watch_your">Tonton Saluran TV Favorit Anda</string>
+    <string name="error_package_name">Error Package Name</string>
+    <string name="live">Live</string>
+
+
+</resources>
