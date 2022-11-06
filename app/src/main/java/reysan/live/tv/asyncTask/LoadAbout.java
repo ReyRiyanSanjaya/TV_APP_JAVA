@@ -12,14 +12,7 @@ import reysan.live.tv.SharedPref.Settings;
 import reysan.live.tv.interfaces.AboutListener;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class LoadAbout extends AsyncTask<String, String, String> {
 

@@ -20,19 +20,12 @@ import reysan.live.tv.interfaces.CategoryListener;
 import com.nemosofts.library.EndlessRecycler.EndlessRecyclerViewScrollListener;
 import reysan.live.tv.asyncTask.LoadCategory;
 import reysan.live.tv.Methods.Methods;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.interfaces.RecyclerViewClickListener;
 import reysan.live.tv.SharedPref.Settings;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class CategoryActivity extends AppCompatActivity {
     RecyclerView recyclerView;

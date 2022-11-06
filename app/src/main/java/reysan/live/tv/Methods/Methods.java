@@ -52,7 +52,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 import reysan.live.tv.Login.ItemUser;
 import reysan.live.tv.Login.LoginActivity;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.interfaces.InterAdListener;
 import reysan.live.tv.SharedPref.MY_API;
 import reysan.live.tv.SharedPref.Settings;
@@ -61,14 +61,7 @@ import okhttp3.MultipartBody;
 import okhttp3.RequestBody;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class Methods {
 

@@ -6,14 +6,7 @@ import java.util.ArrayList;
 import reysan.live.tv.Listltem.Listltem_Category;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public interface CategoryListener {
     void onStart();

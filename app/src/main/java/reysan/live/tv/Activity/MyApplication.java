@@ -12,17 +12,10 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 import com.onesignal.OneSignal;
 
 import reysan.live.tv.DBHelper.DBHelper;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class MyApplication extends Application {
 

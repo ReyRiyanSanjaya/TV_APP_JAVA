@@ -39,7 +39,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import nemosofts.live.tv.BuildConfig;
+import reysan.live.tv.BuildConfig;
 import reysan.live.tv.DBHelper.DBHelper;
 import reysan.live.tv.JSONParser.JSONParser;
 import reysan.live.tv.asyncTask.LoadAbout;
@@ -48,7 +48,7 @@ import reysan.live.tv.Login.LoadLogin;
 import reysan.live.tv.Login.LoginActivity;
 import reysan.live.tv.Login.LoginListener;
 import reysan.live.tv.Methods.Methods;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.Receiver.LoadNemosofts;
 import reysan.live.tv.Receiver.NemosoftsListener;
 import reysan.live.tv.SharedPref.Settings;
@@ -56,14 +56,7 @@ import reysan.live.tv.SharedPref.SharedPre;
 import reysan.live.tv.interfaces.AboutListener;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class SplashActivity extends AppCompatActivity {
     Methods methods;

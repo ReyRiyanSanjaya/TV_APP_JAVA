@@ -17,22 +17,15 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import com.onesignal.OneSignal;
-import nemosofts.live.tv.BuildConfig;
-import nemosofts.live.tv.R;
+import reysan.live.tv.BuildConfig;
+import reysan.live.tv.R;
 import reysan.live.tv.SharedPref.Settings;
 import reysan.live.tv.SharedPref.SharedPre;
 import com.nemosofts.library.SwitchButton.SwitchButton;
 import reysan.live.tv.constant.Constant;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class SettingActivity extends AppCompatActivity {
     SharedPre sharedPre;

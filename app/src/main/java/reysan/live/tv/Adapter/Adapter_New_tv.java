@@ -36,18 +36,11 @@ import java.util.Random;
 
 import reysan.live.tv.Listltem.Listltem;
 import reysan.live.tv.Methods.Methods;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.SharedPref.Settings;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class Adapter_New_tv extends RecyclerView.Adapter {
 

@@ -13,19 +13,12 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import reysan.live.tv.Methods.Methods;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.SharedPref.Settings;
 import reysan.live.tv.SharedPref.SharedPre;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class RegisterActivity extends AppCompatActivity {
 

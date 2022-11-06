@@ -1,4 +1,4 @@
-package nemosofts.live.tv;
+package reysan.live.tv;
 
 import org.junit.Test;
 

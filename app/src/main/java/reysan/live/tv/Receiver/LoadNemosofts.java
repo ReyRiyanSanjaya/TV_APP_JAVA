@@ -7,20 +7,13 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 
-import nemosofts.live.tv.BuildConfig;
+import reysan.live.tv.BuildConfig;
 import reysan.live.tv.JSONParser.JSONParser;
 import reysan.live.tv.Methods.Methods;
 import reysan.live.tv.SharedPref.Settings;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class LoadNemosofts extends AsyncTask<String, String, String> {
 

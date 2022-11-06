@@ -18,19 +18,12 @@ import java.util.ArrayList;
 import reysan.live.tv.DBHelper.DBHelper;
 import reysan.live.tv.Listltem.Listltem;
 import reysan.live.tv.Methods.Methods;
-import nemosofts.live.tv.R;
+import reysan.live.tv.R;
 import reysan.live.tv.SharedPref.Settings;
 import reysan.live.tv.interfaces.RecyclerViewClickListener;
 
 
-/**
- * Company : Nemosofts
- * Detailed : Software Development Company in Sri Lanka
- * Developer : Thivakaran
- * Contact : thivakaran829@gmail.com
- * Contact : nemosofts@gmail.com
- * Website : https://nemosofts.com
- */
+ 
 
 public class Adapter_tv_Favourite extends RecyclerView.Adapter {
     private DBHelper dbHelper;

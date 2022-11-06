@@ -1,4 +1,4 @@
-package nemosofts.live.tv;
+package reysan.live.tv;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("nemosofts.live.tv", appContext.getPackageName());
+        assertEquals("reysan.live.tv", appContext.getPackageName());
     }
 }
